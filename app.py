@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-#Este es un comentario de prueba
+
 # Título de la aplicación
 st.header("Análisis de anuncios de venta de coches")
 
