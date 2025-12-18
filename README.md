@@ -15,4 +15,4 @@ La aplicación permite realizar un análisis exploratorio básico de un conjunto
 - Streamlit
 
 ## Enlace a la aplicación
-La aplicación está desplegada en Render y es accesible desde el navegador web.
+La aplicación está desplegada en Render y es accesible desde el navegador web. https://proyecto-sprint-7-mcp3.onrender.com
